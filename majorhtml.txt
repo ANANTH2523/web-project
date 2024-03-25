@@ -230,7 +230,7 @@
         <div class="row" style="margin-top: 70px; margin-bottom: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card" id="c">
-                    <img src="https://media.licdn.com/dms/image/D4D12AQErWZk5vGu7Iw/article-cover_image-shrink_720_1280/0/1674755443060?e=2147483647&v=beta&t=gbShbu4pqz8678OMY8RQzq5-9H1NAsVMoN3jx-NPmCE" alt="" class="card image-top">
+                    <img src="http://surl.li/rxbmm" alt="" class="card image-top">
                     <div class="card-body">
                         <h3 class="card-titel text-center">Search Engine Optimization</h3>
                         <div id="btn3"><button>View More</button></div>
