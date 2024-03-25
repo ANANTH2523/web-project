@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DCS</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">]
     <!-- bootstrap link -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -347,17 +347,22 @@
                                     <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="data:image/jpeg;base64,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" alt=""></div>
                                     <div class="link-name d-flex justify-content-center">MICHAEL BROWN</div>
                                     <div class="link-position d-flex justify-content-center">Small Business Owner</div>
+                                    
                                 </div>
+                                
                             </div>
                         </div>
+                        
                     </div>                  
-</div>                
+</div>  
+              
 </div>
             </section> 
             
          </div>
         </div> 
    </div> 
+   
    
     
         
@@ -436,63 +441,109 @@
             </div>
             </div>
   
+ <!-- Carousel wrapper -->
  <div class="container" id="gallery" style="padding-top: 75px; margin-top: 100px; margin-bottom: 100px; padding-bottom: 75px; background: rgb(125, 238, 240); width: 100%;">
-                <h1 class="text-center">GALLERY</h1>
-                <div class="row" style="margin-top: 70px; margin-bottom: 30px;">
-                  <div class="col-md-3 py-3 py-md-0">
-                      <div class="card" id="c">
-                          <img src="https://spacecoastdaily.com/wp-content/uploads/2023/10/Traditional-Website-Development-Companies.jpg" alt="" class="card image-top">
-                          <div class="card-body">
-                          </div>
-                       </div>
-                      </div> 
-                      <div class="col-md-3 py-3 py-md-0">
-                        <div class="card" id="c">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR117oD3h0On5uN_BNIkP-QKAd-DzZamwDAfg&s" alt="" class="card image-top">
-                            <div class="card-body">
-                            </div> 
-                       </div>
-                     </div> 
-                       <div class="col-md-3 py-3 py-md-0">
-                        <div class="card" id="c">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tdp5mQsMjkOIQ7ZXAnzRuGtTQzknNR4rSQ&s" alt="" class="card image-top">
-                            <div class="card-body">
-                            </div>
-                         </div> 
-                        </div>
-                        <div class="col-md-3 py-3 py-md-0">
-                          <div class="card" id="c">
-                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMjeB86Z6hdpKjc6K63aYETY5cQD0KwCoXZA&s" alt="" class="card image-top">
-                              <div class="card-body">
-                              </div>
-                          </div>
-                        </div>  
-                        <div class="row" style="margin-top: 50px;">
-                          <div class="col-md-3 py-3 py-md-0">
-                              <div class="card" id="c">
-                                  <img src="https://images01.nicepagecdn.com/page/42/51/website-design-preview-42512.jpg" alt="" class="card image-top">
-                                  <div class="card-body">
-                                  </div>
-                                </div> 
-                              </div>    
-                              <div class="col-md-3 py-3 py-md-0">
-                                <div class="card" id="c">
-                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6cvS1Lck_gHa6YKeop2w6D_tLfqUSDUyGA&s" alt="" class="card image-top">
-                                    <div class="card-body">
-                                    </div>   
-                                  </div>  
-                                </div>
-                                <div class="col-md-3 py-3 py-md-0">
-                                  <div class="card" id="c">
-                                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnBKU2dBuYEVGHzdNOz8fbZtQCORGzmPdGA&s" alt="" class="card image-top">
-                                      <div class="card-body">
-                                      </div>
-                                  </div>
-                                </div>              
+  <h1 class="text-center">GALLERY</h1>
+<div
+id="carouselBasicExample"
+class="carousel slide carousel-fade"
+data-ride="carousel"
+>
+<!-- Indicators -->
+<div class="carousel-indicators">
+  <button
+    type="button"
+    data-target="#carouselBasicExample"
+    data-slide-to="0"
+    class="active"
+    aria-current="true"
+    aria-label="Slide 1"
+  ></button>
+  <button
+    type="button"
+    data-target="#carouselBasicExample"
+    data-slide-to="1"
+    aria-label="Slide 2"
+  ></button>
+  <button
+    type="button"
+    data-target="#carouselBasicExample"
+    data-slide-to="2"
+    aria-label="Slide 3"
+  ></button>
+</div>
 
+<!-- Inner -->
+<div class="carousel-inner">
+  <!-- Single item -->
+  <div class="carousel-item active">
+    <img
+      src="https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2023-10/cover_95.jpg"
+      class="d-block w-100"
+      alt="Sunset Over the City"
+    />
+    <div class="carousel-caption d-none d-md-block">
+      <h5>we craft your feelings</h5>
+      <p>
+        There is no life that is free, sometimes soft with a quiver of propaganda.
+      </p>
+    </div>
+  </div>
 
-</div></div>
-      </div>             
+  <!-- Single item -->
+  <div class="carousel-item">
+    <img
+      src="https://www.omni-cnc.com/wp-content/uploads/2018/03/user-story.png"
+      class="d-block w-100"
+      alt="Canyon at Nigh"
+    />
+    <div class="carousel-caption d-none d-md-block">
+      <h5>labs that design ideas</h5>
+      <p>
+        The customer is very important, the customer will be followed by the customer.
+      </p>
+    </div>
+  </div>
+
+  <!-- Single item -->
+  <div class="carousel-item">
+    <img
+      src="https://images01.nicepagecdn.com/page/42/51/website-design-preview-42512.jpg"
+      class="d-block w-100"
+      alt="Cliff Above a Stormy Sea"
+    />
+    <div class="carousel-caption d-none d-md-block">
+      <h5>marketing made easy</h5>
+      <p>
+        It is a great opportunity to promote your idea.
+      </p>
+    </div>
+  </div>
+</div>
+<!-- Inner -->
+
+<!-- Controls -->
+<button
+  class="carousel-control-prev"
+  type="button"
+  data-target="#carouselBasicExample"
+  data-slide="prev"
+>
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Previous</span>
+</button>
+<button
+  class="carousel-control-next"
+  type="button"
+  data-target="#carouselBasicExample"
+  data-slide="next"
+>
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Next</span>
+</button>
+</div>
+</div>
+<!-- Carousel wrapper -->       
       <div class="container" id="contact" style="padding-top: 75px; margin-top: 100px; margin-bottom: 100px; padding-bottom: 75px; background: rgb(234, 126, 126); width: 100%;">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -587,7 +638,7 @@
   <br>
     <footer id="footer">
         <h1 class="text-center">DCS</h1>
-        <p class="text-center">Crafting Dreams Into Reality</p>
+        <p class="text-center">Unleash the Elegance within...</p>
         <div class="icons text-center">
             <i class="bx bxl-twitter"></i>
             <i class="bx bxl-facebook"></i>
